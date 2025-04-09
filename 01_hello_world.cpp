@@ -1,4 +1,4 @@
-// Compile command: g++ -pthread –std=c++17 –o hello_world.cpp 01_hello_world.cpp
+// Compile command: g++ -pthread –std=c++17 –o 01_hello_world 01_hello_world.cpp
 
 #include <iostream>
 #include <thread>
